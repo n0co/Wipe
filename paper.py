@@ -1,7 +1,7 @@
 import os, shutil, sys
 
-pythondir = "C:\\Users\\ShehreyarKhan\\Downloads\\pyth prac"
-local_history_directory = "C:\\Users\\ShehreyarKhan\\AppData\\Roaming\\Code\\User\\History"
+pythondir = "Paste your directory that contains all your python scripts"
+local_history_directory = "C:\\Users\\UserName\\AppData\\Roaming\\Code\\User\\History"
 
 #os.chdir(testdir)
 
